@@ -80,3 +80,24 @@ D:\Desktop\repos_no\R6S_Server_region_changer - 20200507\R6S_Server_region_chang
 D:\Desktop\repos_no\R6S_Server_region_changer - 20200507\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.application
 D:\Desktop\repos_no\R6S_Server_region_changer - 20200507\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.exe
 D:\Desktop\repos_no\R6S_Server_region_changer - 20200507\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.pdb
+D:\msys64\home\Apr1c07\MyApps\R6S_Server_region_changer\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.exe.config
+D:\msys64\home\Apr1c07\MyApps\R6S_Server_region_changer\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.exe.manifest
+D:\msys64\home\Apr1c07\MyApps\R6S_Server_region_changer\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.application
+D:\msys64\home\Apr1c07\MyApps\R6S_Server_region_changer\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.exe
+D:\msys64\home\Apr1c07\MyApps\R6S_Server_region_changer\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.pdb
+D:\msys64\home\Apr1c07\MyApps\R6S_Server_region_changer\R6S_Server_region_changer\bin\Release\Newtonsoft.Json.dll
+D:\msys64\home\Apr1c07\MyApps\R6S_Server_region_changer\R6S_Server_region_changer\bin\Release\Newtonsoft.Json.xml
+D:\msys64\home\Apr1c07\MyApps\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.csprojAssemblyReference.cache
+D:\msys64\home\Apr1c07\MyApps\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.About.resources
+D:\msys64\home\Apr1c07\MyApps\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.ChangeProfile.resources
+D:\msys64\home\Apr1c07\MyApps\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.CreateProfile.resources
+D:\msys64\home\Apr1c07\MyApps\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.Main.resources
+D:\msys64\home\Apr1c07\MyApps\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.Properties.Resources.resources
+D:\msys64\home\Apr1c07\MyApps\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.csproj.GenerateResource.cache
+D:\msys64\home\Apr1c07\MyApps\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.csproj.CoreCompileInputs.cache
+D:\msys64\home\Apr1c07\MyApps\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.TrustInfo.xml
+D:\msys64\home\Apr1c07\MyApps\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.exe.manifest
+D:\msys64\home\Apr1c07\MyApps\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.application
+D:\msys64\home\Apr1c07\MyApps\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.csproj.CopyComplete
+D:\msys64\home\Apr1c07\MyApps\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.exe
+D:\msys64\home\Apr1c07\MyApps\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.pdb

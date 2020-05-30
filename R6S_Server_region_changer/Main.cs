@@ -34,6 +34,9 @@ namespace R6S_Server_region_changer
         public Main()
         {
             InitializeComponent();
+            Updater z;
+            z = new Updater();
+            z.CheckForUpdates();
             comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
             MaximizeBox = false;
             FormBorderStyle = FormBorderStyle.FixedSingle;

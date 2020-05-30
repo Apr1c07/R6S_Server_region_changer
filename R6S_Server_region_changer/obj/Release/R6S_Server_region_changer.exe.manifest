@@ -43,14 +43,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="R6S_Server_region_changer.exe" size="449008">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="700336">
+      <assemblyIdentity name="Newtonsoft.Json" version="12.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>f5ErKKB8Im4L46z7L1fwUFOKugEA+h8L8sOfGh8dqBQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="R6S_Server_region_changer.exe" size="451568">
       <assemblyIdentity name="R6S_Server_region_changer" version="2020.5.7.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>+ER+ZDQb0F7xj9VjGMsF5uxfsqH2tjY2OZRo4yFH49E=</dsig:DigestValue>
+        <dsig:DigestValue>EWxmr5r93wW/FTZ1YDU5HPblpwUL+XMPLUw0Vd1xUXs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
