@@ -1,0 +1,11 @@
+C:\Users\annin\source\repos\R6S_Server_region_changer\R6S_Server_region_changer\obj\Debug\R6S_Server_region_changer.csprojAssemblyReference.cache
+C:\Users\annin\source\repos\R6S_Server_region_changer\R6S_Server_region_changer\obj\Debug\R6S_Server_region_changer.Main.resources
+C:\Users\annin\source\repos\R6S_Server_region_changer\R6S_Server_region_changer\obj\Debug\R6S_Server_region_changer.Properties.Resources.resources
+C:\Users\annin\source\repos\R6S_Server_region_changer\R6S_Server_region_changer\obj\Debug\R6S_Server_region_changer.csproj.GenerateResource.cache
+C:\Users\annin\source\repos\R6S_Server_region_changer\R6S_Server_region_changer\obj\Debug\R6S_Server_region_changer.csproj.CoreCompileInputs.cache
+C:\Users\annin\source\repos\R6S_Server_region_changer\R6S_Server_region_changer\bin\Debug\R6S_Server_region_changer.exe.config
+C:\Users\annin\source\repos\R6S_Server_region_changer\R6S_Server_region_changer\bin\Debug\R6S_Server_region_changer.exe
+C:\Users\annin\source\repos\R6S_Server_region_changer\R6S_Server_region_changer\bin\Debug\R6S_Server_region_changer.pdb
+C:\Users\annin\source\repos\R6S_Server_region_changer\R6S_Server_region_changer\obj\Debug\R6S_Server_region_changer.exe
+C:\Users\annin\source\repos\R6S_Server_region_changer\R6S_Server_region_changer\obj\Debug\R6S_Server_region_changer.pdb
+C:\Users\annin\source\repos\R6S_Server_region_changer\R6S_Server_region_changer\obj\Debug\R6S_Server_region_changer.About.resources

@@ -1,0 +1,82 @@
+C:\Users\annin\source\repos\R6S_Server_region_changer\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.exe.config
+C:\Users\annin\source\repos\R6S_Server_region_changer\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.exe
+C:\Users\annin\source\repos\R6S_Server_region_changer\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.pdb
+C:\Users\annin\source\repos\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.About.resources
+C:\Users\annin\source\repos\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.Main.resources
+C:\Users\annin\source\repos\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.Properties.Resources.resources
+C:\Users\annin\source\repos\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.csproj.GenerateResource.cache
+C:\Users\annin\source\repos\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.csproj.CoreCompileInputs.cache
+C:\Users\annin\source\repos\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.exe
+C:\Users\annin\source\repos\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.pdb
+C:\Users\annin\source\repos\R6S_Server_region_changer_v2\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.exe.config
+C:\Users\annin\source\repos\R6S_Server_region_changer_v2\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.exe
+C:\Users\annin\source\repos\R6S_Server_region_changer_v2\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.pdb
+C:\Users\annin\source\repos\R6S_Server_region_changer_v2\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.About.resources
+C:\Users\annin\source\repos\R6S_Server_region_changer_v2\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.ChangeProfile.resources
+C:\Users\annin\source\repos\R6S_Server_region_changer_v2\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.CreateProfile.resources
+C:\Users\annin\source\repos\R6S_Server_region_changer_v2\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.Main.resources
+C:\Users\annin\source\repos\R6S_Server_region_changer_v2\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.Properties.Resources.resources
+C:\Users\annin\source\repos\R6S_Server_region_changer_v2\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.csproj.GenerateResource.cache
+C:\Users\annin\source\repos\R6S_Server_region_changer_v2\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.csproj.CoreCompileInputs.cache
+C:\Users\annin\source\repos\R6S_Server_region_changer_v2\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.exe
+C:\Users\annin\source\repos\R6S_Server_region_changer_v2\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.pdb
+D:\Desktop\repos_no\R6S_Server_region_changer_v2 -改\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.exe.config
+D:\Desktop\repos_no\R6S_Server_region_changer_v2 -改\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.exe
+D:\Desktop\repos_no\R6S_Server_region_changer_v2 -改\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.pdb
+D:\Desktop\repos_no\R6S_Server_region_changer_v2 -改\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.About.resources
+D:\Desktop\repos_no\R6S_Server_region_changer_v2 -改\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.ChangeProfile.resources
+D:\Desktop\repos_no\R6S_Server_region_changer_v2 -改\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.CreateProfile.resources
+D:\Desktop\repos_no\R6S_Server_region_changer_v2 -改\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.Main.resources
+D:\Desktop\repos_no\R6S_Server_region_changer_v2 -改\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.Properties.Resources.resources
+D:\Desktop\repos_no\R6S_Server_region_changer_v2 -改\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.csproj.GenerateResource.cache
+D:\Desktop\repos_no\R6S_Server_region_changer_v2 -改\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.csproj.CoreCompileInputs.cache
+D:\Desktop\repos_no\R6S_Server_region_changer_v2 -改\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.exe
+D:\Desktop\repos_no\R6S_Server_region_changer_v2 -改\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.pdb
+D:\Desktop\repos_no\R6S_Server_region_changer\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.exe.config
+D:\Desktop\repos_no\R6S_Server_region_changer\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.exe
+D:\Desktop\repos_no\R6S_Server_region_changer\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.pdb
+D:\Desktop\repos_no\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.csprojAssemblyReference.cache
+D:\Desktop\repos_no\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.About.resources
+D:\Desktop\repos_no\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.ChangeProfile.resources
+D:\Desktop\repos_no\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.CreateProfile.resources
+D:\Desktop\repos_no\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.Main.resources
+D:\Desktop\repos_no\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.Properties.Resources.resources
+D:\Desktop\repos_no\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.csproj.GenerateResource.cache
+D:\Desktop\repos_no\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.csproj.CoreCompileInputs.cache
+D:\Desktop\repos_no\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.exe
+D:\Desktop\repos_no\R6S_Server_region_changer\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.pdb
+D:\Desktop\repos_no\R6S_Server_region_changer - 0903\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.exe.config
+D:\Desktop\repos_no\R6S_Server_region_changer - 0903\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.exe.manifest
+D:\Desktop\repos_no\R6S_Server_region_changer - 0903\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.application
+D:\Desktop\repos_no\R6S_Server_region_changer - 0903\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.exe
+D:\Desktop\repos_no\R6S_Server_region_changer - 0903\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.pdb
+D:\Desktop\repos_no\R6S_Server_region_changer - 0903\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.csprojAssemblyReference.cache
+D:\Desktop\repos_no\R6S_Server_region_changer - 0903\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.About.resources
+D:\Desktop\repos_no\R6S_Server_region_changer - 0903\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.ChangeProfile.resources
+D:\Desktop\repos_no\R6S_Server_region_changer - 0903\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.CreateProfile.resources
+D:\Desktop\repos_no\R6S_Server_region_changer - 0903\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.Main.resources
+D:\Desktop\repos_no\R6S_Server_region_changer - 0903\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.Properties.Resources.resources
+D:\Desktop\repos_no\R6S_Server_region_changer - 0903\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.csproj.GenerateResource.cache
+D:\Desktop\repos_no\R6S_Server_region_changer - 0903\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.csproj.CoreCompileInputs.cache
+D:\Desktop\repos_no\R6S_Server_region_changer - 0903\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.TrustInfo.xml
+D:\Desktop\repos_no\R6S_Server_region_changer - 0903\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.exe.manifest
+D:\Desktop\repos_no\R6S_Server_region_changer - 0903\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.application
+D:\Desktop\repos_no\R6S_Server_region_changer - 0903\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.exe
+D:\Desktop\repos_no\R6S_Server_region_changer - 0903\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.pdb
+D:\Desktop\repos_no\R6S_Server_region_changer - 20200507\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.exe.config
+D:\Desktop\repos_no\R6S_Server_region_changer - 20200507\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.exe.manifest
+D:\Desktop\repos_no\R6S_Server_region_changer - 20200507\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.application
+D:\Desktop\repos_no\R6S_Server_region_changer - 20200507\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.exe
+D:\Desktop\repos_no\R6S_Server_region_changer - 20200507\R6S_Server_region_changer\bin\Release\R6S_Server_region_changer.pdb
+D:\Desktop\repos_no\R6S_Server_region_changer - 20200507\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.About.resources
+D:\Desktop\repos_no\R6S_Server_region_changer - 20200507\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.ChangeProfile.resources
+D:\Desktop\repos_no\R6S_Server_region_changer - 20200507\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.CreateProfile.resources
+D:\Desktop\repos_no\R6S_Server_region_changer - 20200507\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.Main.resources
+D:\Desktop\repos_no\R6S_Server_region_changer - 20200507\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.Properties.Resources.resources
+D:\Desktop\repos_no\R6S_Server_region_changer - 20200507\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.csproj.GenerateResource.cache
+D:\Desktop\repos_no\R6S_Server_region_changer - 20200507\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.csproj.CoreCompileInputs.cache
+D:\Desktop\repos_no\R6S_Server_region_changer - 20200507\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.TrustInfo.xml
+D:\Desktop\repos_no\R6S_Server_region_changer - 20200507\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.exe.manifest
+D:\Desktop\repos_no\R6S_Server_region_changer - 20200507\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.application
+D:\Desktop\repos_no\R6S_Server_region_changer - 20200507\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.exe
+D:\Desktop\repos_no\R6S_Server_region_changer - 20200507\R6S_Server_region_changer\obj\Release\R6S_Server_region_changer.pdb
